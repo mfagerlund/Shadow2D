@@ -1,6 +1,4 @@
-# Shadow 2D
 
-(See demo)[http://learntocode.biz/shadow2ddemo/]
 Follow these steps to use Shadows2D in your scene:
 
 1. Make sure you have a floor layer - this will be the shadowed-background layer.
